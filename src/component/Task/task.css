@@ -1,0 +1,43 @@
+.task {
+    width: 336px;
+    height: 80px;
+    border: 1px solid gray;
+}
+
+.user-con {
+    display: flex;
+    gap: 20px;
+       align-items: center;
+
+}
+
+.user-info {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.task-info {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.icon {
+    margin-left: 40px;
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    align-items: center;
+}
+
+.iconBtn {
+    border: 1px solid;
+    width: 24px;
+    height: 24px;
+}
+
+img {
+    width: 40px;
+    height: 40px;
+}
